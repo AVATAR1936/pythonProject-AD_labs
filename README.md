@@ -6,4 +6,4 @@
 ## Встановлення
 1. Клонуйте репозиторій:
    ```bash
-   [git clone https://github.com/your-username/your-repo.git](https://github.com/AVATAR1936/pythonProject-AD_labs.git)
+   git clone https://github.com/AVATAR1936/pythonProject-AD_labs.git
