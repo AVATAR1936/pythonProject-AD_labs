@@ -4,3 +4,6 @@
 /Scripts/
 /share/
 /pyvenv.cfg
+/venv/
+/.idea/
+/vhi_data/
