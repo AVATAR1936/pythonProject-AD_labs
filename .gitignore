@@ -7,3 +7,5 @@
 /venv/
 /.idea/
 /vhi_data/
+/AirQualityUCI.csv/
+/household_power_consumption.txt/
