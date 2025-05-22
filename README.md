@@ -67,5 +67,5 @@ It is **highly recommended** to use a Python distribution via **Anaconda** or **
 conda create --name geo_env python=3.9
 conda activate geo_env
 
-# Install dependencies (GDAL and Rasterio from conda-forge)
+# Install dependencies
 conda install -c conda-forge gdal rasterio sentinelhub scikit-learn matplotlib
