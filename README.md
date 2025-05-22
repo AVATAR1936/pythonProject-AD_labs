@@ -68,5 +68,4 @@ conda create --name geo_env python=3.9
 conda activate geo_env
 
 # Install dependencies (GDAL and Rasterio from conda-forge)
-conda install -c conda-forge gdal rasterio
-pip install sentinelhub-py scikit-learn matplotlib
+conda install -c conda-forge gdal rasterio sentinelhub scikit-learn matplotlib
